@@ -1,0 +1,18 @@
+#app2{
+}
+.tab-bar{
+    display: flex;
+}
+.tab-bar > li{
+    border: 2px solid red;
+    width: 50vw;
+}
+.tab-content{
+
+}
+.tab-content > li.active{
+    display: block;
+}
+.tab-content > li{
+    display: none;
+}

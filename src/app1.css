@@ -1,0 +1,11 @@
+#app1{
+}
+#app1 .output{
+}
+#app1 .actions{
+}
+#app1 .actions >button{
+    display: block;
+    width: 5vw;
+    margin-top: 10px;
+}
